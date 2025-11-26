@@ -1,0 +1,22 @@
+Airfare
+Baggage Claim
+Billable status
+Business Meals (Attendees)
+Business Meals Attendees
+Car Fuel Charges
+Cash Advance Return
+Client (Org Unit 1 - Name)
+Employee ID
+End Date
+Entertainment - Clients
+Full Name
+Ground Transportation/Taxi
+Group - Org Unit 1
+Market
+No Of days
+Per Deim
+Printing/Photocopying/Stationery
+Public Transport (Bus/Train/Ferry)
+Reimb
+Report ID
+Request ID
